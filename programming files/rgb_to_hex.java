@@ -1,7 +1,8 @@
 public class rgb_to_hex {
+    // Changed all rgb values to 0, Gavin Monteiro
     public static void main(String[] args) {
-        int r = 255;
-        int g = 127;
+        int r = 0;
+        int g = 0;
         int b = 0;
         String hexColor = rgbToHex(r, g, b);
         System.out.println("RGB color (" + r + ", " + g + ", " + b + ") = " + hexColor);
