@@ -1,4 +1,4 @@
-//zb,
+//zb
 # RP Broken
 a, b = 0, 1
 sum_even = 0
