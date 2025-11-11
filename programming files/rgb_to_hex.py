@@ -1,4 +1,4 @@
-# Broke rgb values, Gavin Monteiro
+# Broke rgb values and changed {:02x} to {:12x}, Gavin Monteiro
 def rgb_to_hex(r, g, b):
     r = max(0, min(00, r))
     g = max(0, min(100, g))
